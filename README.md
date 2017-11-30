@@ -1,2 +1,2 @@
 # HarvardForest
-Harvard Forest transcriptomics work
+Harvard Forest transcriptomics power analysis work
